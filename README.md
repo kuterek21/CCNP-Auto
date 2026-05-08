@@ -42,7 +42,7 @@ Funcions def
 
 ## Librarys
 <p> Url to PyPi web page </p>
-
+<a href-"https://pypi.org/project/netmiko/" >Netmiko on PyPi.org</a>
     - [PYPI.ORG](#pypi.org)
 
 To be able to insall Libraires we need to install PIP
