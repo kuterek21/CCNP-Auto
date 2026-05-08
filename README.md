@@ -68,8 +68,22 @@ To be able to insall Libraires we need to install PIP
 
 from netmiko import ConnectHandler
 
+print("We are going to test our network ")
+print("--------------------------------------------------------------------------")
 
-   
+connect = ConnectHandler(
+    device_type = "cisco_ios",
+    host = "192.168.1.101",
+    username = "admin",
+    password = "cisco"
+)
+
+ssh = connect.send_command("show ver | i uptime ")
+print(ssh)
+print("-------------------------------------------------------------------------")
+
+
+#####################################################################################################################################################
 ## Ansible
 
 ### Install dependencies
