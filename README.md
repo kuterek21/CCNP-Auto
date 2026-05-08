@@ -44,6 +44,10 @@ from FILE_NAME
 - [PYPI.ORG](#pypi.org)
 To be able to insall Libraires we need to install PIP
 
+- Netmiko
+- Paramiko
+- PyATS
+
 ### - PIP
      
     - sudo apt-get install pip
