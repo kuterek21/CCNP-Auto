@@ -20,12 +20,13 @@
     - Floats - decimal numbers
     - Boolean True/False
 1. Function
-   def greeting():   // create a content of that funcion which you want to resue in the future
-       print("welcome")
-       print("to the course")
-       print("Cisco Auto")
- greetint()    // to run it - just call that funcion
-2.
+   
+   - def greeting():   // create a content of that funcion which you want to resue in the future
+   -   print("welcome")
+   -    print("to the course")
+   -   print("Cisco Auto")
+   - greetint()    // to run it - just call that funcion
+3.
 
 ## Librarys
 
