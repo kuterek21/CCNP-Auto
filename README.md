@@ -11,6 +11,7 @@
 ## Tools
 - Visual Studio Code
 - PyCharm
+- PIP
 - Git
 ## First_lesson 
 
@@ -40,9 +41,11 @@ from FILE_NAME
 3.
 
 ## Librarys
-- [PYPI.ORG]
+- [PYPI.ORG](#pypi.org)
+To be able to insall Libraires install pip
+     - pip install netmiko
 
-### Netmiko
+### - Netmiko
 
 
    
