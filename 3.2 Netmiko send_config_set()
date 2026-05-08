@@ -1,6 +1,12 @@
-List [0,1,2,4,5] 
-List [a,b,c,d,e]
-List [a0,b1,c2,d3,e4]
+form netmiko import ConnectHandler
 
-ex: 
+connect = ConnectHandler(
+  device_type = "cisco_ios",
+  host = "192.168.1.101",
+  username = "admin",
+  username = "cisco"
+)
 
+interface_detail = []
+
+config = connect.sent_config_set(interface_detail)
