@@ -5,6 +5,8 @@
 - [Tools](#Tools)
 - [Python part](#First_lesson)
 - [Librarys](#Librarys)
+        - Netmiko
+        
 - [Ansible](#Ansible)
 - [Git](#VCS_Version_Control_System)
 
@@ -84,7 +86,10 @@ To be able to insall Libraires we need to install PIP
     ssh = connect.send_command("show ver | i uptime ")
     print(ssh)
     print("-------------------------------------------------------------------------")
+#### Lists
 
+    - ex:
+        my_list = [Palo_alto, Cisco, Aruba, F5, Juniper, Fortigate]
 
 ##################################################################################################################
 # Ansible
