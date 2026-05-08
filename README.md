@@ -43,7 +43,7 @@ Funcions def
 ## Librarys
 <p> Url to PyPi web page </p>
 
-    -[PYPI.ORG](#pypi.org)
+    - [PYPI.ORG](#pypi.org)
 
 To be able to insall Libraires we need to install PIP
 
