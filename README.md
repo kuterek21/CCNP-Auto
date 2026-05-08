@@ -44,8 +44,6 @@ Funcions def
 
 [pypi.org](https://pypi.org/project/netmiko/)
 
-    - [PYPI.ORG](#pypi.org)
-
 To be able to insall Libraires we need to install PIP
 
 - Netmiko
