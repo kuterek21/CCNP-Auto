@@ -88,8 +88,22 @@ To be able to insall Libraires we need to install PIP
     print("-------------------------------------------------------------------------")
 #### Lists
 
-    - ex:
+    - example:
         my_list = [Palo_alto, Cisco, Aruba, F5, Juniper, Fortigate]
+
+        -       form netmiko import ConnectHandler
+
+                connect = ConnectHandler(
+                  device_type = "cisco_ios",
+                  host = "192.168.1.101",
+                  username = "admin",
+                  username = "cisco"
+                )
+                
+                interface_details = ["interface loop 10","ip addreess 10.10.10.1 255.255.255.0","descr Test 1","no shut"]
+                
+                config = connect.sent_config_set(interface_details)
+
 
 ##################################################################################################################
 # Ansible
