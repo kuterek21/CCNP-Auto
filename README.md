@@ -40,7 +40,7 @@ from FILE_NAME
 3.
 
 ## Librarys
-- [PYPI](#www.pypi.org)
+- [PYPI.ORG]
 
 ### Netmiko
 
