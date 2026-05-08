@@ -42,7 +42,9 @@ from FILE_NAME
 
 ## Librarys
 - [PYPI.ORG](#pypi.org)
-To be able to insall Libraires install pip
+To be able to insall Libraires we need to install PIP
+
+### - PIP
      
     - sudo apt-get install pip
 
