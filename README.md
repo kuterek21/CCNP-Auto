@@ -25,9 +25,22 @@
      -   print("to the course")
      -   print("Cisco Auto")
    - greetint()    // to run it - just call that funcion
+
+To import we use either
+import greeting
+to call it
+test.greeting()
+or
+from FILE_NAME import greeting
+and then I use it as
+greeting()
+or
+from FILE_NAME
+
 3.
 
 ## Librarys
+- [PYPI](#pypi.org)
 
 ### Netmiko
 
