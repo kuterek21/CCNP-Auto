@@ -1,1 +1,7 @@
+- ex:
+    my_list = [Palo_alto, Cisco, Aruba, F5, Juniper, Fortigate]
+
+
+
+interface_details = ["interface loop 10","ip addreess 10.10.10.1 255.255.255.0","descr Test 1","no shut"]
 
