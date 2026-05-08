@@ -50,6 +50,7 @@ To be able to insall Libraires install pip
     
     - sudo apt-get install python3-netmiko
 
+    - pip show netmiko 
    
 ## Ansible
 
