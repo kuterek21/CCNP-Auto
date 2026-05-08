@@ -64,6 +64,11 @@ To be able to insall Libraires we need to install PIP
         - ConnectHandler()
         - send_command()
         - send_config_set()
+##### Netmiko examples
+
+from netmiko import ConnectHandler
+
+
    
 ## Ansible
 
