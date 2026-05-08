@@ -2,14 +2,29 @@
 
 ## Table of Content
 
+- [Tools]
 - [Python part](#First_lesson)
    - Netmiko
 - [Ansible](#Ansible)
 - [Git](#VCS_Version_Control_System)
 
+## Tools
+- Visual Studio Code
+- PyCharm
+- Git
 ## First_lesson 
 
  - print("Hello World")
+ - String - letters, symbols
+ - Integers - full numbers
+ - Floats - decimal numbers
+ - Boolean True/False
+
+-Netmiko
+
+
+
+   
 ## Ansible
 
 ### Install dependencies
