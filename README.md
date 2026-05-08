@@ -20,6 +20,8 @@
     - Integers - full numbers
     - Floats - decimal numbers
     - Boolean True/False
+    - Lists - [a1,b2,c3 ]
+    
 1. Function
    - def greeting():   // create a content of that funcion which you want to resue in the future
      -   print("welcome")
