@@ -37,8 +37,8 @@ and then I use it as
 greeting()
 or
 from FILE_NAME
+Funcions def
 
-3.
 
 ## Librarys
 [PYPI.ORG](#pypi.org)
