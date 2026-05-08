@@ -4,7 +4,7 @@
 
 - [Tools]
 - [Python part](#First_lesson)
-   - Netmiko
+- [Netmiko](#Netmiko)
 - [Ansible](#Ansible)
 - [Git](#VCS_Version_Control_System)
 
@@ -14,14 +14,22 @@
 - Git
 ## First_lesson 
 
- - print("Hello World")
- - String - letters, symbols
- - Integers - full numbers
- - Floats - decimal numbers
- - Boolean True/False
+    - print("Hello World")
+    - String - letters, symbols
+    - Integers - full numbers
+    - Floats - decimal numbers
+    - Boolean True/False
+1. Function
+   def greeting():   // create a content of that funcion which you want to resue in the future
+       print("welcome")
+       print("to the course")
+       print("Cisco Auto")
+ greetint()    // to run it - just call that funcion
+2.
 
--Netmiko
+## Librarys
 
+### Netmiko
 
 
    
