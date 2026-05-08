@@ -43,10 +43,10 @@ from FILE_NAME
 ## Librarys
 - [PYPI.ORG](#pypi.org)
 To be able to insall Libraires install pip
-     - pip install netmiko
+        - sudo apt-get install pip
 
 ### - Netmiko
-
+     - sudo apt-get install python3-netmiko
 
    
 ## Ansible
