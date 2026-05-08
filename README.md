@@ -58,6 +58,12 @@ To be able to insall Libraires we need to install PIP
     - sudo apt-get install python3-netmiko
 
     - pip show netmiko 
+    
+#### Netmiko elements
+
+        - ConnectHandler()
+        - send_command()
+        - send_config_set()
    
 ## Ansible
 
