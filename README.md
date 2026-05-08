@@ -4,7 +4,7 @@
 
 - [Tools]
 - [Python part](#First_lesson)
-- [Netmiko](#Netmiko)
+- [Librarys](#Librarys)
 - [Ansible](#Ansible)
 - [Git](#VCS_Version_Control_System)
 
