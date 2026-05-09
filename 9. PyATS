@@ -1,9 +1,15 @@
-apt install python3-pip
-pip list
-apt-get install python3-venv
-python3 -m venv [ PROJECT_NAME ]
-source [ PROJECT_NAME ]/bin/activate
-deactivate
+lecture way
+    - python -m venv .
+    - ls -a
+    - source .venv/bin/activate
+    - deactivate
+old tested working way
+  - apt install python3-pip
+  - pip list
+  - apt-get install python3-venv
+  - python3 -m venv [ PROJECT_NAME ]
+  - source [ PROJECT_NAME ]/bin/activate
+  - deactivate
   - pip install pyats[full]
 pip show pyats              # displays pyats ver
 pip list                    # displays all the libraries
