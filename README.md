@@ -107,7 +107,6 @@ To be able to insall Libraires we need to install PIP
                 config = connect.sent_config_set(interface_details)
 
 
-##################################################################################################################
 # Ansible
 ### Install dependencies
 
@@ -148,7 +147,8 @@ cd ansible
        enabled: true
      - name: task2
      - name: task3
-##################################################################################################################
+
+
 # GIT
 ## VCS_Version_Control_System
 
@@ -166,7 +166,8 @@ cd ansible
 ### Git upload to GitHub
  - GitLab / profile / personal access tokens / Generate token
  -  git psuh --set-upstream https://gitlab.com/kuterek21/GIT_FUNDEMANTALS_2026.git main
-##################################################################################################################
+
+
 # PyATS
 ### Install PyATS use venv
         - python -m venv .
