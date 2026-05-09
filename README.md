@@ -9,6 +9,7 @@
         
 - [Ansible](#Ansible)
 - [Git](#VCS_Version_Control_System)
+- [PyATS](#PyATS)
 
 ## Tools
 - Visual Studio Code
@@ -53,6 +54,7 @@ To be able to insall Libraires we need to install PIP
 - Netmiko
 - Paramiko
 - PyATS
+- Genie
 
 ### - PIP
      
@@ -164,4 +166,6 @@ cd ansible
  - GitLab / profile / personal access tokens / Generate token
  -  git psuh --set-upstream https://gitlab.com/kuterek21/GIT_FUNDEMANTALS_2026.git main
   
+## PyATS
+
 
