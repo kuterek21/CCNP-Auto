@@ -166,15 +166,15 @@ cd ansible
 ### Git upload to GitHub
  - GitLab / profile / personal access tokens / Generate token
  -  git psuh --set-upstream https://gitlab.com/kuterek21/GIT_FUNDEMANTALS_2026.git main
-  
-## PyATS
+##################################################################################################################
+# PyATS
 ### Install PyATS use venv
         - python -m venv .
         - ls -a
         - source .venv/bin/activate
         - deactivate
  - pip install pyats[full]
-
+ - pip show pyats 
 
 
         
