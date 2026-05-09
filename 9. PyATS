@@ -5,3 +5,5 @@ python3 -m venv [ PROJECT_NAME ]
 source [ PROJECT_NAME ]/bin/activate
 deactivate
   - pip install pyats[full]
+pip show pyats              # displays pyats ver
+pip list                    # displays all the libraries
