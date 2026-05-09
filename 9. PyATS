@@ -30,3 +30,7 @@ pip list                    # displays all the libraries
 # re-learn after a config change
 
 - pyats learn config --testbed-file mytestbed.yml --output new_config_capture
+
+# show differences between 2 configs
+
+- pyats diff config_capture/ new-config_capture/
