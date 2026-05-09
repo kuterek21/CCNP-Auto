@@ -167,5 +167,14 @@ cd ansible
  -  git psuh --set-upstream https://gitlab.com/kuterek21/GIT_FUNDEMANTALS_2026.git main
   
 ## PyATS
+### Install PyATS use venv
+        - python -m venv .
+        - ls -a
+        - source .venv/bin/activate
+        - deactivate
+ - pip install pyats[full]
 
+
+
+        
 
