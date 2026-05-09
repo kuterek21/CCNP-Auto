@@ -14,3 +14,6 @@ old tested working way
 
 pip show pyats              # displays pyats ver
 pip list                    # displays all the libraries
+
+    - pyats create testbed interactive --output mytestbed.yml
+    - pyats parse "show ip int brie" --testbeb-file mytestbed.yml
