@@ -15,5 +15,18 @@ old tested working way
 pip show pyats              # displays pyats ver
 pip list                    # displays all the libraries
 
+# use parse
     - pyats create testbed interactive --output mytestbed.yml
     - pyats parse "show ip int brie" --testbeb-file mytestbed.yml
+
+# store it into a fiel [int_brie]
+ 
+    - pyats parse "show ip int brie" --testbeb-file mytestbed.yml --output int_brie
+
+# use learn
+
+- pyats learn config --testbed-file mytestbed.yml --output config_capture
+
+# re-learn after a config change
+
+- pyats learn config --testbed-file mytestbed.yml --output new_config_capture
