@@ -43,11 +43,11 @@ SSH to the devices using Netmiko
         
         - send_config_set() # executes command in Config mode
 
-## - Lists
+## - [Lists](https://github.com/kuterek21/Python_for_Cisco/blob/main/2.2.1%20Lists)
 
     - [a1, b2,c3,d4]
 
-## [Strings](https://github.com/kuterek21/Python_for_Cisco/blob/main/2.2.2%20Strings)
+## - [Strings](https://github.com/kuterek21/Python_for_Cisco/blob/main/2.2.2%20Strings)
 
 - lower
 - upper
