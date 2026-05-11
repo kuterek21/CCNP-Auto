@@ -7,7 +7,7 @@
 - [Librarys](#Librarys)
         - Netmiko
         
-- [API][#API]
+- [API](#API)
 - [Ansible](#Ansible)
 - [Git](#VCS_Version_Control_System)
 - [PyATS](#PyATS)
@@ -17,6 +17,17 @@
 - PyCharm
 - PIP
 - Git
+
+## Librarys
+
+[pypi.org](https://pypi.org/project/netmiko/)
+
+To be able to insall Libraires we need to install PIP
+- Netmiko
+- Paramiko
+- PyATS
+- Genie
+
 ## First_lesson 
 
     - print("Hello World")
@@ -24,16 +35,13 @@
 ## Function
     - def greeting():   // create a content of that funcion which you want to resue in the future
 
-## Librarys
+## Second_lesson 
 
-[pypi.org](https://pypi.org/project/netmiko/)
+SSH to the devices using Netmiko
 
-To be able to insall Libraires we need to install PIP
+## Lists
 
-- Netmiko
-- Paramiko
-- PyATS
-- Genie
+    - [a1, b2,c3,d4]
 
 ### - PIP
      
