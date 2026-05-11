@@ -4,4 +4,11 @@ print("""!
 --2nd--"")
 print("Next FUNCION")
 print("-------")
+============================================
 
+   - print("Hello World")
+    - String - letters, symbols
+    - Integers - full numbers
+    - Floats - decimal numbers
+    - Boolean True/False
+    - Lists - [a1,b2,c3 ]
