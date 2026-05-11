@@ -12,5 +12,5 @@ interface_details = ["interface loop 10","ip address 10.10.10.1 255.255.255.0","
 config = connect.send_config_set(interface_details)
 print(config)
 
-sh_config = connect.send_commands("show ip int brie")
+sh_config = connect.send_command("show int descr ")
 print(sh_config)
