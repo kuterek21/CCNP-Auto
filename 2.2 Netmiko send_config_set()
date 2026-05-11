@@ -1,12 +1,16 @@
-form netmiko import ConnectHandler
+from netmiko import ConnectHandler
 
 connect = ConnectHandler(
   device_type = "cisco_ios",
   host = "192.168.1.101",
   username = "admin",
-  username = "cisco"
+  password = "cisco"
 )
 
-interface_details = ["interface loop 10","ip addreess 10.10.10.1 255.255.255.0","descr Test 1","no shut"]
+interface_details = ["interface loop 10","ip address 10.10.10.1 255.255.255.0","descr Test 1","no shut"]
 
-config = connect.sent_config_set(interface_details)
+config = connect.send_config_set(interface_details)
+print(config)
+
+sh_config = connect.send_commands("show ip int brie")
+print(sh_config)
