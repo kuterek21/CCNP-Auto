@@ -51,10 +51,8 @@ SSH to the devices using Netmiko
 
 - lower
 - upper
-
-or
-
 - format
+- input
 
 ### - PIP
      
