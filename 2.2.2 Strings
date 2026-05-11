@@ -1,1 +1,32 @@
 
+
+name = "Mariusz"
+course = "Cisco"
+module = "CCIE"
+Speciality = "DevCor"
+
+print("Welcome to our " + module +" " course + "where we will learn " + Speciality)
+
+print(name.upper())
+print(name.lower())
+print()
+
+Format used in funcion
+# create a variable
+
+greet = "Welcome to {} and achive all the best resuts by getting a {}"
+
+course = "Cisco"
+exam = "CCIE"
+
+# call the parameters by using Format 
+
+print(greet.format(course, exam)
+
+or
+
+course = "Cisco"
+exam = "CCIE"
+
+greet = "Welcome to {cname} and achive all the best resuts by getting a {iname}"
+print(greet.format(cname=course, iname=exam))
