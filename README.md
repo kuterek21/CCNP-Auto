@@ -47,7 +47,7 @@ SSH to the devices using Netmiko
 
     - [a1, b2,c3,d4]
 
-## [Strings](2.2.2 Strings)
+## [Strings](https://github.com/kuterek21/Python_for_Cisco/blob/main/2.2.2%20Strings)
 
 - lower
 - upper
