@@ -39,6 +39,10 @@ To be able to insall Libraires we need to install PIP
 
 SSH to the devices using Netmiko
 
+        - send_command()    # executes command in Privileged mode 
+        
+        - send_config_set() # executes command in Config mode
+
 ## - Lists
 
     - [a1, b2,c3,d4]
