@@ -47,7 +47,7 @@ SSH to the devices using Netmiko
 
     - [a1, b2,c3,d4]
 
-## 2.2.2 Strings
+## [Strings](2.2.2 Strings)
 
 - lower
 - upper
