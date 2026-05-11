@@ -30,7 +30,7 @@ To be able to insall Libraires we need to install PIP
 
     - print("Hello World")
 
-## - [Function](https://github.com/kuterek21/Python_for_Cisco/blob/main/1.2%20Funcions%20def)
+## [Function](https://github.com/kuterek21/Python_for_Cisco/blob/main/1.2%20Funcions%20def)
 
     - def greeting():   // create a content of that funcion which you want to resue in the future
 
@@ -147,6 +147,7 @@ cd ansible
 
 
 # [GIT](https://github.com/kuterek21/Python_for_Cisco/blob/main/8.%20Git)
+
 ## VCS_Version_Control_System
 
 ### Install GIT
@@ -165,7 +166,8 @@ cd ansible
  -  git psuh --set-upstream https://gitlab.com/kuterek21/GIT_FUNDEMANTALS_2026.git main
 
 
-# PyATS
+# [PyATS](https://github.com/kuterek21/Python_for_Cisco/blob/main/9.%20PyATS)
+
 ### Install PyATS use venv
         - python -m venv .
         - ls -a
