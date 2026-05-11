@@ -4,9 +4,7 @@
 
 - [Tools](#Tools)
 - [Python part](#First_lesson)
-- [Librarys](#Librarys)
-        - Netmiko
-        
+- [Librarys](#Librarys)        
 - [API](#API)
 - [Ansible](#Ansible)
 - [Git](#VCS_Version_Control_System)
@@ -28,14 +26,15 @@ To be able to insall Libraires we need to install PIP
 - PyATS
 - Genie
 
-## First_lesson 
+## [First_lesson](http://github.com/kuterek21/Python_for_Cisco/blob/main/1.%20First%20lesson%20-%20print) 
 
     - print("Hello World")
 
-## - Function
+## - [Function](https://github.com/kuterek21/Python_for_Cisco/blob/main/1.2%20Funcions%20def)
+
     - def greeting():   // create a content of that funcion which you want to resue in the future
 
-## Second_lesson 
+## [Second_lesson_Netmiko](https://github.com/kuterek21/Python_for_Cisco/blob/main/2.1%20Netmiko%20send_command())
 
 SSH to the devices using Netmiko
 
@@ -43,11 +42,11 @@ SSH to the devices using Netmiko
         
         - send_config_set() # executes command in Config mode
 
-## - [Lists](https://github.com/kuterek21/Python_for_Cisco/blob/main/2.2.1%20Lists)
+## [Lists](https://github.com/kuterek21/Python_for_Cisco/blob/main/2.2.1%20Lists)
 
     - [a1, b2,c3,d4]
 
-## - [Strings](https://github.com/kuterek21/Python_for_Cisco/blob/main/2.2.2%20Strings)
+## [Strings](https://github.com/kuterek21/Python_for_Cisco/blob/main/2.2.2%20Strings)
 
 - lower
 - upper
@@ -105,7 +104,7 @@ SSH to the devices using Netmiko
                 config = connect.sent_config_set(interface_details)
 
 
-# Ansible
+# [Ansible](https://github.com/kuterek21/Python_for_Cisco/blob/main/7.%20Ansible)
 ### Install dependencies
 
 - pip install paramiko
@@ -147,7 +146,7 @@ cd ansible
      - name: task3
 
 
-# GIT
+# [GIT](https://github.com/kuterek21/Python_for_Cisco/blob/main/8.%20Git)
 ## VCS_Version_Control_System
 
 ### Install GIT
