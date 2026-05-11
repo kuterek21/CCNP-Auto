@@ -32,14 +32,14 @@ To be able to insall Libraires we need to install PIP
 
     - print("Hello World")
 
-## Function
+## - Function
     - def greeting():   // create a content of that funcion which you want to resue in the future
 
 ## Second_lesson 
 
 SSH to the devices using Netmiko
 
-## Lists
+## - Lists
 
     - [a1, b2,c3,d4]
 
