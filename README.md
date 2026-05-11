@@ -20,31 +20,9 @@
 ## First_lesson 
 
     - print("Hello World")
-    - String - letters, symbols
-    - Integers - full numbers
-    - Floats - decimal numbers
-    - Boolean True/False
-    - Lists - [a1,b2,c3 ]
-    
-1. Function
+
+Function
    - def greeting():   // create a content of that funcion which you want to resue in the future
-     -   print("welcome")
-     -   print("to the course")
-     -   print("Cisco Auto")
-   - greetint()    // to run it - just call that funcion
-
-To import we use either
-import greeting
-to call it
-test.greeting()
-or
-from FILE_NAME import greeting
-and then I use it as
-greeting()
-or
-from FILE_NAME
-Funcions def
-
 
 ## Librarys
 
