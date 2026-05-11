@@ -21,8 +21,8 @@
 
     - print("Hello World")
 
-Function
-   - def greeting():   // create a content of that funcion which you want to resue in the future
+## Function
+    - def greeting():   // create a content of that funcion which you want to resue in the future
 
 ## Librarys
 
