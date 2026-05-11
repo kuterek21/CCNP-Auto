@@ -47,6 +47,15 @@ SSH to the devices using Netmiko
 
     - [a1, b2,c3,d4]
 
+## Strings
+
+- lower
+- upper
+
+or
+
+- format
+
 ### - PIP
      
     - sudo apt-get install pip
