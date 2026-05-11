@@ -1,0 +1,25 @@
+from netmiko import ConnectHandler
+print("Connecting to a Device R1 \n")
+
+
+conn = ConnectHandler(
+    device_type = "cisco_ios",
+    host = "192.168.1.101",
+    username = "admin",
+    password = "cisco"
+)
+
+int_name = input(" Which interface ")
+ip_add = input(" Type your IP: ")
+mask_add = input(" Mask: ")
+int_descr = input(" Specify the Description ")
+
+int_config = [
+    "interface {name}"  .format(name=int_name),
+    "ip_add {ip} {mask}".format(ip=ip_add, mask=mask_add),
+    "description {desc}".format(desc=int_descr)
+]
+interface_configuration = conn.send_config_set(int_config)
+
+show_int = conn.send_command("sho int descr")
+print(show_int)
