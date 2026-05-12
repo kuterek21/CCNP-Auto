@@ -46,6 +46,11 @@ SSH to the devices using Netmiko
 
     - [a1, b2,c3,d4]
 
+## [Loops](https://github.com/kuterek21/Python_for_Cisco/blob/main/3.%20Loops%20-%20multiple%20devicess)
+    
+    - for an_element in mylist:
+          print(an_element)
+
 ## [Strings](https://github.com/kuterek21/Python_for_Cisco/blob/main/2.2.2%20Strings)
 
 - lower
