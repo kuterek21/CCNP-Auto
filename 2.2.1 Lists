@@ -1,6 +1,6 @@
 - ex:
     my_list = [Palo_alto, Cisco, Aruba, F5, Juniper, Fortigate]
- print(my_list) # to pring whole list
+ print(my_list) # to print whole list
 
 print(my_list[1]) # print secnd element from the list
 
