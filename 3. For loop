@@ -1,4 +1,6 @@
 For loop:
-- for an_element in mylist:
-          print(an_element)
+
+mylist["Cisco","Palo-ALto","Arista","Juniper",]
+for an_element in mylist:
+          print(ayoun_element)
           print("--------")
