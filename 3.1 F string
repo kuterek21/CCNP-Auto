@@ -1,0 +1,11 @@
+my_device = Cisco_R1
+
+print("You are about to configure device " + my_device)
+
+      or with a "String format() Method"
+
+print("You are about to configure device {}".format(my_device))
+
+      or with a "Python f-string"
+      
+print(f"You are about to configure device {my_device}")
