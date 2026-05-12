@@ -9,3 +9,26 @@ print("You are about to configure device {}".format(my_device))
       or with a "Python f-string"
       
 print(f"You are about to configure device {my_device}")
+------------------------------------------------------------------------
+
+mylist = ["192.168.1.101","192.168.1.101","192.168.1.103","192.168.1.104","192.168.1.105"]
+for node in myslist:
+  print(f"First we SSH into {node} ")
+
+  connect_ssh = ConnectHandler(
+      device_type = "cisco_ios",
+      host = node,
+      username = "admin"
+      password = "cisco"
+#loopback_conf = [
+#  interface_lo =intput("Loopback name "),
+#  ip_add = input("Type IP Add ")
+#  mask_add = "255.255.255.255"
+#  descri = input("Best you can")
+
+]
+
+
+  sshing = connect_ssh.send_config_set(loopback_conf)
+
+  sshing = connect_ssh.send_command("show int descr")
