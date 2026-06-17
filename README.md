@@ -1,4 +1,4 @@
-# CCNP Automation  / CCIE
+# CCNP Automation 
 
 ## Table of Content
 
