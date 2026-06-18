@@ -2,3 +2,9 @@
     - ls -a
     - source .venv/bin/activate
     - deactivate
+-----------
+that one always work
+-----------
+python3 -m venv [ PROJECT_NAME ]
+source [ PROJECT_NAME ]/bin/activate
+deactivate
