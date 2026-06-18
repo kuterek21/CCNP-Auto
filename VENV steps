@@ -1,0 +1,4 @@
+    - python -m venv .
+    - ls -a
+    - source .venv/bin/activate
+    - deactivate
