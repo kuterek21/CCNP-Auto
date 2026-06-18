@@ -36,14 +36,6 @@ To be able to insall Libraires we need to install PIP
 
     - def greeting():   // create a content of that funcion which you want to resue in the future
 
-## [Second_lesson_Netmiko](https://github.com/kuterek21/Python_for_Cisco/blob/main/2.1%20Netmiko%20send_command())
-
-SSH to the devices using Netmiko
-
-        - send_command()    # executes command in Privileged mode 
-        
-        - send_config_set() # executes command in Config mode
-
 ## [Lists](https://github.com/kuterek21/Python_for_Cisco/blob/main/2.2.1%20Lists)
 
     - [a1, b2,c3,d4]
@@ -113,7 +105,14 @@ SSH to the devices using Netmiko
 # [Week-2 Netmiko]
 
  Connecting to the device with Netmiko run a script.
- 
+
+ ## [Second_lesson_Netmiko](https://github.com/kuterek21/Python_for_Cisco/blob/main/2.1%20Netmiko%20send_command())
+
+SSH to the devices using Netmiko
+
+        - send_command()    # executes command in Privileged mode 
+        
+        - send_config_set() # executes command in Config mode
 
 # [Week-3 Netconf](https://github.com/kuterek21/CCNP-Auto/blob/main/6.%20Netconf)
 Day 5
