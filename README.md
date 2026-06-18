@@ -15,6 +15,7 @@
 - PyCharm
 - PIP
 - Git
+- [venv](https://github.com/kuterek21/Python_for_Cisco/blob/main/VENV%20steps)
 
 ## Librarys
 
