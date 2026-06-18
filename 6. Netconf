@@ -6,3 +6,9 @@ Platforms
 Two Protocols 
 - NETCONF
 - RESTCONF
+
+1. Netconf
+ - Transport -  SSH port 830
+ - Encoding -  XML
+ - Schema -  YANG
+
