@@ -78,12 +78,8 @@ To be able to insall Libraires we need to install PIP
 
 Prepare your device by installing:
 
-### - Netmiko
-    
-    - sudo apt-get install python3-netmiko
-
-    - pip show netmiko 
-    
+### - [Netmiko-install](https://github.com/kuterek21/CCNP-Auto/blob/main/2.0%20Netmiko%20install)
+     
 #### Netmiko elements
 
         - ConnectHandler()
