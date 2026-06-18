@@ -110,6 +110,20 @@ SSH to the devices using Netmiko
                 
                 config = connect.sent_config_set(interface_details)
 
+# Week-2 Netmiko
+
+    - Connecting to the device with Netmiko run a script.
+    - 
+
+# Week-3 Netconf
+Day 5
+
+
+Day 6
+    - Model driven programibility (MDP)
+    - 
+
+
 
 # [Ansible](https://github.com/kuterek21/Python_for_Cisco/blob/main/7.%20Ansible)
 ### Install dependencies
