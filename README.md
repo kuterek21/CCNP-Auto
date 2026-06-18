@@ -1,4 +1,4 @@
-# [CCIE Link](https://github.com/kuterek21/CCIE-AUTO/blob/main/README.md)
+# [CCIE-Auto Link](https://github.com/kuterek21/CCIE-AUTO/blob/main/README.md)
 # CCNP Automation 
 
 ## Table of Content
