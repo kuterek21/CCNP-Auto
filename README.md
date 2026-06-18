@@ -110,12 +110,12 @@ SSH to the devices using Netmiko
                 
                 config = connect.sent_config_set(interface_details)
 
-# Week-2 Netmiko
+# [Week-2 Netmiko]
 
  Connecting to the device with Netmiko run a script.
  
 
-# Week-3 Netconf
+# [Week-3 Netconf](https://github.com/kuterek21/CCNP-Auto/blob/main/6.%20Netconf)
 Day 5
 
 
