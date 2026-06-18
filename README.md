@@ -56,34 +56,6 @@ To be able to insall Libraires we need to install PIP
      
     - sudo apt-get install pip
 
-### - Netmiko
-    
-    - sudo apt-get install python3-netmiko
-
-    - pip show netmiko 
-    
-#### Netmiko elements
-
-        - ConnectHandler()
-        - send_command()
-        - send_config_set()
-##### Netmiko examples
-
-    from netmiko import ConnectHandler
-    
-    print("We are going to test our network ")
-    print("--------------------------------------------------------------------------")
-    
-    connect = ConnectHandler(
-        device_type = "cisco_ios",
-        host = "192.168.1.101",
-        username = "admin",
-        password = "cisco"
-    )
-    
-    ssh = connect.send_command("show ver | i uptime ")
-    print(ssh)
-    print("-------------------------------------------------------------------------")
 #### Lists
 
     - example:
@@ -104,6 +76,38 @@ To be able to insall Libraires we need to install PIP
 
 # [Week-2 Netmiko]
 
+Prepare your device by installing:
+
+### - Netmiko
+    
+    - sudo apt-get install python3-netmiko
+
+    - pip show netmiko 
+    
+#### Netmiko elements
+
+        - ConnectHandler()
+        - send_command()
+        - send_config_set()
+        
+##### Netmiko examples
+
+    from netmiko import ConnectHandler
+    
+    print("We are going to test our network ")
+    print("--------------------------------------------------------------------------")
+    
+    connect = ConnectHandler(
+        device_type = "cisco_ios",
+        host = "192.168.1.101",
+        username = "admin",
+        password = "cisco"
+    )
+    
+    ssh = connect.send_command("show ver | i uptime ")
+    print(ssh)
+    print("-------------------------------------------------------------------------")
+    
  Connecting to the device with Netmiko run a script.
 
  ## [Second_lesson_Netmiko](https://github.com/kuterek21/Python_for_Cisco/blob/main/2.1%20Netmiko%20send_command())
@@ -115,6 +119,7 @@ SSH to the devices using Netmiko
         - send_config_set() # executes command in Config mode
 
 # [Week-3 Netconf](https://github.com/kuterek21/CCNP-Auto/blob/main/6.%20Netconf)
+
 Day 5
 
 
