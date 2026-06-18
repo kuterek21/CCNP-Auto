@@ -112,8 +112,8 @@ SSH to the devices using Netmiko
 
 # Week-2 Netmiko
 
-    - Connecting to the device with Netmiko run a script.
-    - 
+ Connecting to the device with Netmiko run a script.
+ 
 
 # Week-3 Netconf
 Day 5
