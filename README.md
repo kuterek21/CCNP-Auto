@@ -14,7 +14,7 @@
 ## Tools
 - Visual Studio Code
 - PyCharm
-- PIP
+- [PIP]()
 - Git
 - [venv](https://github.com/kuterek21/Python_for_Cisco/blob/main/VENV%20steps)
 
@@ -50,24 +50,7 @@ function_name()
 ## [Lists](https://github.com/kuterek21/Python_for_Cisco/blob/main/2.2.1%20Lists)
 
     - [a1, b2,c3,d4]
-
-## [Loops](https://github.com/kuterek21/Python_for_Cisco/blob/main/3.%20Loops%20-%20multiple%20devicess)
-    
-    - for an_element in mylist:
-          print(an_element)
-
-## [Strings](https://github.com/kuterek21/Python_for_Cisco/blob/main/2.2.2%20Strings)
-
-- lower
-- upper
-- format
-- input
-
-### - PIP
-     
-    - sudo apt-get install pip
-
-#### Lists
+### Lists
 
     - example:
         my_list = [Palo_alto, Cisco, Aruba, F5, Juniper, Fortigate]
@@ -84,6 +67,18 @@ function_name()
                 interface_details = ["interface loop 10","ip addreess 10.10.10.1 255.255.255.0","descr Test 1","no shut"]
                 
                 config = connect.sent_config_set(interface_details)
+
+## [Loops](https://github.com/kuterek21/Python_for_Cisco/blob/main/3.%20Loops%20-%20multiple%20devicess)
+    
+    - for an_element in mylist:
+          print(an_element)
+
+## [Strings](https://github.com/kuterek21/Python_for_Cisco/blob/main/2.2.2%20Strings)
+
+- lower
+- upper
+- format
+- input
 
 # [Week-2 Netmiko]
 
