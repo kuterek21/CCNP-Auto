@@ -1,0 +1,8 @@
+def greeting():
+  print("Hey there")
+  print("This is a first Fucion")
+  print("Which is a part of CCIE Auto\n")
+  print("It runs 5 lines of code in one go")
+  print("Which can be used again and again")
+
+greeting()
