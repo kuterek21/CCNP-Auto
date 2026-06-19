@@ -6,3 +6,15 @@ def greeting():
   print("Which can be used again and again")
 
 greeting()
+=================
+to use it from another file:
+ - import FILENAME
+ - FILENAME.funcion_name()
+
+or
+
+ - from FILENAME import funcion_name
+
+and call it
+
+ - function_name()
