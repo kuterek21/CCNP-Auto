@@ -3,6 +3,6 @@ from Netmiko import ConnectHandler
 ssh_conn = ConnectHandler(              // you have to specify 4 parts
 
 device_type = "cisco_ios",
-hosts = "1.1.1.1",
+host = "1.1.1.1",
 username = "admin",
 password "admin"
