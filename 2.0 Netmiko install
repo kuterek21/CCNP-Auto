@@ -4,6 +4,8 @@
 
 # install netmiko
 
+- pip install netmiko
+
 - sudo apt-get install python3-netmiko
 
 # check installation
