@@ -38,6 +38,15 @@ to use it from another file:
  - import FILENAME
  - FILENAME.funcion_name()
 
+or
+
+from FILENAME import funcion_name
+
+and call it
+
+function_name()
+
+
 ## [Lists](https://github.com/kuterek21/Python_for_Cisco/blob/main/2.2.1%20Lists)
 
     - [a1, b2,c3,d4]
