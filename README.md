@@ -36,11 +36,11 @@ To be able to insall Libraires we need to install PIP
 
 to use it from another file:
  - import FILENAME
- - FILENAME.funcion_name()
+ - FILENAME.function_name()
 
 or
 
-from FILENAME import funcion_name
+from FILENAME import function_name
 
 and call it
 
