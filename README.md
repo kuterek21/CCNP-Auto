@@ -32,7 +32,7 @@ To be able to insall Libraires we need to install PIP
 
     - print("Hello World")
 
-## [Function](https://github.com/kuterek21/Python_for_Cisco/blob/main/1.2%20Funcions%20def)
+## [Function](https://github.com/kuterek21/CCNP-Auto/blob/main/4.0%20Funcion)
 
     - def greeting():   // create a content of that funcion which you want to resue in the future
 
