@@ -1,0 +1,24 @@
+--------
+pip
+--------    
+    - sudo apt-get install pip
+--------
+netmiko 
+--------
+#before netmiko we need PIP installed
+
+- sudo apt-get install pip
+
+# install netmiko
+
+- sudo apt-get install python3-netmiko
+
+# check installation
+
+- pip show netmiko 
+
+--------
+
+--------
+
+
