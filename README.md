@@ -9,6 +9,11 @@
 ## - [Restconf]
 ## [5 Week]()
 ## [6 Week Netconf]()
+### - Ncclient
+### - SSH port 830
+### - Get
+      Get config
+      Edit config
 ## [7 Week]()
 ## [8 Week]()
 ## [9 Week]()
@@ -41,6 +46,7 @@ To be able to insall Libraires we need to install PIP
 - Paramiko
 - PyATS
 - Genie
+- Ncclient
 
 ## [First_lesson](http://github.com/kuterek21/Python_for_Cisco/blob/main/1.%20First%20lesson%20-%20print) 
 
