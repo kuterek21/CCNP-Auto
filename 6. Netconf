@@ -12,3 +12,14 @@ Two Protocols
  - Encoding -  XML
  - Schema -  YANG
 
+----------------------------------------
+Enable Netconf for SSH port 830
+----------------------------------------
+Netconf Operations
+
+- Get
+        used to fetch operational data from device
+- Get Config
+        used to fetch configuration data from device
+- Edit Config
+        used to push configuraion to the device
