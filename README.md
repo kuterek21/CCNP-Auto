@@ -1,17 +1,17 @@
 # [CCIE-Auto Link](https://github.com/kuterek21/CCIE-AUTO/blob/main/README.md)
 # CCNP Automation 
-## [1 Week](https://github.com/kuterek21/CCNP-Auto/blob/main/1.%20First%20lesson%20-%20print) 
-## [2 Week] Python Librarys
-## [3 Week] Python Loops
-## [4 Week] Python Functions
-## [5 Week]
-## [6 Week] Netconf
-## [7 Week]
-## [8 Week]
-## [9 Week]
-## [10 Week]
-## [11 Week]
-## [12 Week]
+## [1. Week Intro](https://github.com/kuterek21/CCNP-Auto/blob/main/1.%20First%20lesson%20-%20print) 
+## [2 Week](Python Librarys)
+## [3 Week](Python Loops)
+## [4 Week](Python Functions)
+## [5 Week]()
+## [6 Week](Netconf)
+## [7 Week]()
+## [8 Week]()
+## [9 Week]()
+## [10 Week]()
+## [11 Week]()
+## [12 Week]()
 ## Table of Content
 
 - [Tools](#Tools)
