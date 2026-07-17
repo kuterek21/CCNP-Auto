@@ -1,3 +1,7 @@
+1.1
+Print
+--------
+
 print("--1st----")
 print("Hello World")
 print("""!
@@ -12,3 +16,30 @@ print("-------")
     - Floats - decimal numbers
     - Boolean True/False
     - Lists - [a1,b2,c3 ]
+
+###############################################################################################
+1.2
+Funcions def
+--------
+
+def greet(): # def for define a new funcion called greet ## user defined funcion
+    print("Welcome to ")
+    print("this new way ")
+    print("of learning funcions by")
+
+save it as file name mariusz
+-----------
+in another file a new fime magda
+import greet
+
+mariusz.greet()
+
+or
+from mariusz import greet
+
+greet()
+
+or
+from mariusz import greet as newgreet
+
+newgreet()
