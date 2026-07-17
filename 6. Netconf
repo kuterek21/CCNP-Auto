@@ -23,3 +23,7 @@ Netconf Operations
         used to fetch configuration data from device
 - Edit Config
         used to push configuraion to the device
+
+===============================
+
+Ncclient is a python  library for Netconf 
