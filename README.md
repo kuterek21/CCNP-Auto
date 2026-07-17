@@ -1,7 +1,7 @@
 # [CCIE-Auto Link](https://github.com/kuterek21/CCIE-AUTO/blob/main/README.md)
 # CCNP Automation 
 ## [1. Week Intro](https://github.com/kuterek21/CCNP-Auto/blob/main/1.%20First%20lesson%20-%20print) 
-## [2 Week](Python Librarys)
+## [2 Week](Python Librarys(https://github.com/kuterek21/CCNP-Auto/blob/main/2.0%20Netmiko%20install)
 ## [3 Week](Python Loops)
 ## [4 Week](Python Functions)
 ## [5 Week]()
