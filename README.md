@@ -8,7 +8,7 @@
 ## - [Netconf](https://github.com/kuterek21/CCNP-Auto/blob/main/6.%20Netconf)
 ## - [Restconf]
 ## [5 Week]()
-## [6 Week Netconf]()
+## [6 Week Netconf](https://github.com/kuterek21/CCNP-Auto/blob/main/6.%20Netconf)
 #### - Ncclient
 #### - SSH port 830
 #### - Get
