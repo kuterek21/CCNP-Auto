@@ -1,1 +1,14 @@
 
+ip domain name abc.com
+cryp key gen rsa mod 1024
+ip ssh ver 2
+line vty 0 4
+login local 
+transport input all
+username admin priv 15 pass cisco       
+
+=========
+netconf ssh
+netconf-yang
+
+
